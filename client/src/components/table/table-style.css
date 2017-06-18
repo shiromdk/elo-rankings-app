@@ -1,0 +1,12 @@
+.content {
+  display: block;
+  color: inherit;
+  padding: 5px 10px;
+}
+li{
+  list-style-type: none;
+}
+
+li a{
+  color: black;
+}
